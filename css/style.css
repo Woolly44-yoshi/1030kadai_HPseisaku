@@ -1,0 +1,99 @@
+/* header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+  }
+  
+  header .logo {
+    color: #1a56db;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  nav ul {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav a {
+    color: #222222;
+    font-size: 18px;
+    text-decoration: none;
+  }
+
+  .mv {
+    background-image: url("../img/key_mv/key.png");
+    background-size: cover;
+    background-position: center;
+    padding: 180px; 20px;
+    text-align: center;
+    color: #ffffff;
+  }
+  
+  .mv h1 {
+    margin: 0;
+    font-size: 40px;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
+  }
+  
+  .mv p {
+    font-size: 18px;
+  }
+
+
+#about{
+    text-align: center;
+}
+
+#about,
+#course,
+#news,
+#access,
+#contact {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 80px 20px;
+}
+
+h2 {
+  margin: 0 0 10px;
+  color: #1a56db;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0.1em; 
+}
+
+.photos {
+    display: flex;
+  }
+  
+  .photos img {
+    width: 25%;
+    height: 250px;
+    object-fit: cover;
+  }
+
+.course-item {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  margin-top: 40px;
+}
+
+.course-item img {
+  width: 50%;
+  height: 300px;
+  object-fit: cover;
+}
+
+.course-text {
+  width: 50%;
+}
+
+.course-item:nth-of-type(even) {
+  flex-direction: row-reverse;
+} */
